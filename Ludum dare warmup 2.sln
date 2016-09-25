@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ludum dare warmup 2.CSharp", "Ludum dare warmup 2.CSharp.csproj", "{1FFC273A-3C9E-7B3C-5247-90B571A772CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ludum dare warmup 2.CSharp.Editor", "Ludum dare warmup 2.CSharp.Editor.csproj", "{2DAC5D3A-FB08-9479-CF3E-DB2F2032B6A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FFC273A-3C9E-7B3C-5247-90B571A772CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FFC273A-3C9E-7B3C-5247-90B571A772CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FFC273A-3C9E-7B3C-5247-90B571A772CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FFC273A-3C9E-7B3C-5247-90B571A772CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DAC5D3A-FB08-9479-CF3E-DB2F2032B6A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAC5D3A-FB08-9479-CF3E-DB2F2032B6A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAC5D3A-FB08-9479-CF3E-DB2F2032B6A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAC5D3A-FB08-9479-CF3E-DB2F2032B6A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
